@@ -1,0 +1,193 @@
+<mxfile host="65bd71144e">
+    <diagram id="9wJHtbolF7UVSn-kOSUC" name="Page-1">
+        <mxGraphModel dx="2007" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-360" y="30" width="750" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="30" width="270" height="880" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-3" value="&lt;h1&gt;Kakeoppskrifter&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;" parent="1" vertex="1">
+                    <mxGeometry x="-360" y="30" width="750" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-5" value="Amerikansk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-160" y="100" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-6" value="Europeisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="100" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-7" value="Asiatisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="100" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-8" value="&lt;h1&gt;Kakeoppskrifter&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="30" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-9" value="Amerikansk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="150" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-10" value="Europeisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="200" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-11" value="Asiatisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="250" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-12" value="Nyeste Oppskrifter:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="-350" y="170" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-14" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;div&gt;Kategori: &lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Amerikansk&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="220" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-17" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="-140" y="230" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-28" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;div&gt;Kategori: &lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Europeisk&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="220" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-29" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="230" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-30" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;div&gt;Kategori: &lt;font color=&quot;#0000ff&quot;&gt;&lt;u&gt;Asiatisk&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="360" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="-140" y="370" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-32" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;div&gt;Kategori: &lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Europeisk&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="360" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-33" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="370" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-34" value="Nyeste Oppskrifter:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="310" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-35" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;div&gt;Kategori: &lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Amerikansk&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="350" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-36" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="480" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-37" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;div&gt;Kategori: &lt;u&gt;&lt;font color=&quot;#0000ff&quot;&gt;Asiatisk&lt;/font&gt;&lt;/u&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="620" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-38" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="750" width="130" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-360" y="540" width="750" height="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-40" value="&lt;h1&gt;Kakeoppskrifter&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;spacingLeft=0;" parent="1" vertex="1">
+                    <mxGeometry x="-360" y="540" width="750" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-44" value="Amerikanske Oppskrifter:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="-350" y="680" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-53" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="740" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-54" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="740" width="225" height="225" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-55" value="&lt;h1&gt;Tilbakemeldinger&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="740" width="210" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-61" value="Oppskrift:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-100" y="850" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-62" value="&lt;ol&gt;&lt;li&gt;Steg 1&lt;/li&gt;&lt;li&gt;Steg 2&lt;/li&gt;&lt;li&gt;Seg 3&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-100" y="870" width="260" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-63" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="1010" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-64" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="1010" width="225" height="225" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-65" value="&lt;h1&gt;Tilbakemeldinger&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="-90" y="1130" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-66" value="Oppskrift:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="1015" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-67" value="&lt;ol&gt;&lt;li&gt;Steg 1&lt;/li&gt;&lt;li&gt;Steg 2&lt;/li&gt;&lt;li&gt;Seg 3&lt;/li&gt;&lt;li&gt;Steg 4&lt;/li&gt;&lt;li&gt;Steg 5&lt;/li&gt;&lt;li&gt;Steg 6&lt;/li&gt;&lt;li&gt;Steg 7&lt;/li&gt;&lt;li&gt;Steg 8&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="1027.5" width="260" height="245" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-70" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="1150" width="270" height="1740" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-71" value="&lt;h1&gt;Kakeoppskrifter&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="1150" width="270" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-72" value="Amerikansk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="1260" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-73" value="Europeisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="1310" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-74" value="Asiatisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="1360" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-75" value="Amerikanske Oppskrifter:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="1420" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-76" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="550" y="1460" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-77" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="555" y="1590" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-89" value="Oppskrift:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="555" y="1780" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-90" value="&lt;ol&gt;&lt;li&gt;Steg 1&lt;/li&gt;&lt;li&gt;Steg 2&lt;/li&gt;&lt;li&gt;Seg 3&lt;/li&gt;&lt;li&gt;Steg 4&lt;/li&gt;&lt;li&gt;Steg 5&lt;/li&gt;&lt;li&gt;Steg 6&lt;/li&gt;&lt;li&gt;Steg 7&lt;/li&gt;&lt;li&gt;Steg 8&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="535" y="1792.5" width="260" height="245" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-91" value="&lt;h1&gt;Tilbakemeldinger&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="2030" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-96" value="&lt;h1&gt;Eksempel kake&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="2190" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-97" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="2320" width="180" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-98" value="Oppskrift:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=left;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="2510" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-99" value="&lt;ol&gt;&lt;li&gt;Steg 1&lt;/li&gt;&lt;li&gt;Steg 2&lt;/li&gt;&lt;li&gt;Seg 3&lt;/li&gt;&lt;li&gt;Steg 4&lt;/li&gt;&lt;li&gt;Steg 5&lt;/li&gt;&lt;li&gt;Steg 6&lt;/li&gt;&lt;li&gt;Steg 7&lt;/li&gt;&lt;li&gt;Steg 8&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="2522.5" width="260" height="245" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-100" value="&lt;h1&gt;Tilbakemeldinger&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;/p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua&lt;br&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="2760" width="210" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-101" value="" style="line;strokeWidth=2;html=1;fontSize=20;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="545" y="2160" width="195" height="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-102" value="Hjem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="100" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-103" value="Hjem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="100" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-104" value="Amerikansk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-165" y="610" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-105" value="Europeisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="25" y="610" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-106" value="Asiatisk" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="195" y="610" width="180" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-107" value="Hjem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-345" y="610" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="PRQ1gLbrElGdhA6Aecqy-108" value="Hjem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="525" y="1210" width="240" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
