@@ -1,0 +1,39 @@
+.recipes > article {
+  margin-top: 0.75rem;
+  padding: 0.25em 0.5em;
+  border: 1px solid black;
+}
+
+.recipes > article > div > img {
+  margin-top: 0.8em;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .recipes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+  }
+
+  .recipes > article {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+  }
+
+  .recipes > article > .recipe-info {
+    align-self: flex-start;
+  }
+
+  .recipes > article > div > img {
+    margin-top: 0;
+    min-width: 150px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .recipes > article > div > img {
+    min-width: 300px;
+  }
+}

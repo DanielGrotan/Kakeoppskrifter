@@ -1,0 +1,42 @@
+.recipes > article {
+  border: 1px solid black;
+  padding: 0.25em;
+}
+
+.recipes > article > div > img {
+  width: 100%;
+}
+
+.recipes {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+@media (min-width: 768px) {
+  .description {
+    grid-area: desc;
+  }
+
+  .cake-image {
+    grid-area: img;
+    margin: auto 0;
+  }
+
+  .recipe {
+    grid-area: recp;
+  }
+
+  .reviews {
+    grid-area: rews;
+  }
+
+  .recipes > article {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas:
+      "img desc rews"
+      "img recp rews";
+    gap: 1em;
+  }
+}
