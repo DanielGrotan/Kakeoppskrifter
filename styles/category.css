@@ -1,0 +1,159 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.recipe-container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+  padding: 1em;
+
+  background-color: #fbf3f3;
+}
+
+.recipe-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.recipe-header h3 {
+  font-size: 1.5em;
+}
+
+.easy-difficulty {
+  color: rgb(20, 136, 10);
+}
+.medium-difficulty {
+  color: rgb(206, 206, 19);
+}
+.hard-difficulty {
+  color: rgb(212, 10, 10);
+}
+
+.description {
+  text-align: center;
+}
+
+/* Vises ikke ellers */
+hr {
+  width: 100%;
+  border-color: black;
+}
+
+/* Defualt padding og margin er altfor stor */
+ul,
+ol {
+  margin: 0;
+  padding-left: 1em;
+}
+
+/* Mye tekst i hvert punkt, så kan være vanskelig å lese */
+/* Øker dermed høyden på hver linje, for å skape litt luft */
+ol {
+  line-height: 1.7em;
+}
+
+.nutritional-values-container {
+  width: 100%;
+}
+
+table {
+  border: 1px solid black;
+  width: 100%;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: lightgrey;
+}
+
+td:nth-child(odd) {
+  font-weight: bold;
+}
+td:nth-child(even) {
+  text-align: right;
+}
+
+th,
+td {
+  padding: 0.5em;
+}
+
+@media (min-width: 768px) {
+  /* Bruker borders i stedet for hr på store skjermstørrelser */
+  hr {
+    display: none;
+  }
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .recipe-header {
+    grid-area: header;
+  }
+
+  .recipe-header h3 {
+    font-size: 2em;
+  }
+
+  .ingredients {
+    grid-area: ingredients;
+    height: 100%;
+    border: 1px solid black;
+    border-top: none;
+    border-left: none;
+    padding-right: 1em;
+  }
+
+  .description {
+    grid-area: description;
+  }
+
+  .recipe {
+    grid-area: recipe;
+    border-bottom: 1px solid black;
+  }
+
+  .description,
+  .recipe {
+    padding-bottom: 1em;
+    padding-left: 1em;
+  }
+
+  .nutritional-values-container {
+    grid-area: nutritional;
+    height: 100%;
+  }
+
+  table {
+    height: 100%;
+  }
+
+  .recipe-image {
+    grid-area: image;
+  }
+
+  .recipe-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas:
+      "header header"
+      "ingredients description"
+      "ingredients recipe"
+      "nutritional image";
+    align-items: start;
+    justify-items: center;
+    padding: 2em;
+    column-gap: 0;
+  }
+}
